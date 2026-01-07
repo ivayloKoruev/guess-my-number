@@ -8,3 +8,8 @@ You have to guess the correct number otherwise your score is decreased.
 
 ## Controls
 Use the left mouse button for clicks.
+
+## Screenshots
+![Title screen](https://raw.githubusercontent.com/ivayloKoruev/guess-my-number/refs/heads/main/screenshots/game1.png)
+
+![Win screen](https://raw.githubusercontent.com/ivayloKoruev/guess-my-number/refs/heads/main/screenshots/game2.png)
